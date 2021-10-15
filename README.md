@@ -1,1 +1,1 @@
-# 360Project
+# Artificial Intelligence Project
